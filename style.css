@@ -1,0 +1,15 @@
+body{
+    background-color:deepskyblue !important;
+}
+
+.div1{
+    background:lightcyan ;
+    padding:10px ;
+    border-radius: 15px;
+    float:none;
+    margin-bottom: 10px;
+    text-align:center !important;
+    }
+    hr{
+        background-color:black;
+    }
